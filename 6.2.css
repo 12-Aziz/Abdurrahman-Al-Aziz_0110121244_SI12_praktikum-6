@@ -1,0 +1,39 @@
+.container1 {
+    display: flex;
+    margin: 0;
+}
+
+nav {
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 550px;
+}
+
+header {
+    background-color: crimson;
+    width: 910px;
+    height: 100px;
+}
+
+article {
+    background-color: wheat;
+    width: 560px;
+    height: 350px;
+}
+
+aside {
+    background-color: khaki;
+    width: 350px;
+    height: 350px;
+}
+
+footer {
+    background-color: lightcoral;
+    width: 910px;
+    height: 100px;
+    float: right;
+}
+
+.main {
+    display: flex;
+}

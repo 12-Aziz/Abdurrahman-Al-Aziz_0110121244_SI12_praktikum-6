@@ -1,0 +1,45 @@
+.header {
+    border: 1px solid black;
+    text-align: center;
+    background-color: blanchedalmond;
+    height: 100px;
+}
+
+aside {
+    border: none;
+    background-color: khaki;
+    width: 350px;
+    height: 310px;
+    margin: 8px 5px 8px 0;
+    text-align: center;
+}
+
+article {
+    border: none;
+    background-color: linen;
+    width: 630px;
+    height: 310px;
+    margin: -332px 2px 8px 360px;
+    text-align: center;
+}
+
+.footer {
+    border: 1px solid black;
+    text-align: center;
+    background-color: lavender;
+    height: 100px;
+    margin-top: 20px;
+}
+
+div {
+    display: flex;
+}
+
+.foto {
+    display: flex;
+    width: 55px;
+    height: 55px;
+    margin-left: 230px;
+    margin-top: 210px;
+    
+}

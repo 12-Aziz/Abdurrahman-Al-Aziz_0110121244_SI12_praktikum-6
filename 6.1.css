@@ -1,0 +1,10 @@
+.container1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
